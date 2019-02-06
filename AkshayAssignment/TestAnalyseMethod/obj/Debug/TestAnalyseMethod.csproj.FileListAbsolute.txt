@@ -10,3 +10,15 @@ C:\Users\Raman\source\repos\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAna
 C:\Users\Raman\source\repos\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.csproj.CopyComplete
 C:\Users\Raman\source\repos\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.dll
 C:\Users\Raman\source\repos\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.pdb
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\bin\Debug\TestAnalyseMethod.dll
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\bin\Debug\TestAnalyseMethod.pdb
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\bin\Debug\AkshayAssignment.exe
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\bin\Debug\nunit.framework.dll
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\bin\Debug\AkshayAssignment.pdb
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\bin\Debug\AkshayAssignment.exe.config
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\bin\Debug\nunit.framework.xml
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.csprojAssemblyReference.cache
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.csproj.CoreCompileInputs.cache
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.csproj.CopyComplete
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.dll
+C:\Users\acer\Downloads\AkshayAssignment\TestAnalyseMethod\obj\Debug\TestAnalyseMethod.pdb
