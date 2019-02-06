@@ -19,9 +19,9 @@ namespace TestAnalyseMethod
             Console.Write(output);
         }
         [Test]
-        public void Unit_Test_Analyze_Scalene_Input_534_486_465()
+        public void Unit_Test_Analyze_Scalene_Input_534_476_465()
         {
-            String output = TriangleSolver.Analyze(534, 486, 465);
+            String output = TriangleSolver.Analyze(534, 476, 465);
             Console.Write(output);
         }
         [Test]
